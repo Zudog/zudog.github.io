@@ -1,6 +1,7 @@
 permalink: /:year:month:day/:title
 url: #Your url here
-baseurl: /project
+# baseurl: /project
+baseurl : 
 
 # variables
 name: 맨날개발쟁이
